@@ -131,7 +131,7 @@ swal.fire({
         <table border="1">
             <tr>
                 <th>Estudio</th>
-                <th>Campo</th>
+                <th>Parametros</th>
                 <th>Valores de referencia</th>
                 <th>Eliminar</th>
             </tr>
