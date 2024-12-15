@@ -1,0 +1,54 @@
+.gradient{
+    top: 0px;
+    left: 0px;
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(#000,transparent);
+
+}
+body{
+    background: url("./HeqerNoPay/images/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    background-attachment: fixed;
+}
+.img{
+    width: 290px;
+    height: 290px;
+}
+.text{
+    display: inline-block;
+    background: rgba(0,0,0,0.5);
+    width: 800px;
+    text-align: justify;
+    margin: 5px;
+    padding:10px;
+    border: 10px solid transparent;
+    border-radius: 50px;
+    
+
+
+}
+*{
+    font-family:Open sans;
+    color: #ffffff;
+}
+
+.next{
+    display: inline-block;
+    background-image: url("./button.png");
+    background-size: cover;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    
+
+}
+.next:hover{
+    background-image: url("./button2.png");
+    background-size: cover;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+}
