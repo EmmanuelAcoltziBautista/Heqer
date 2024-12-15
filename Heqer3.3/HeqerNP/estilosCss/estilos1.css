@@ -125,6 +125,10 @@ nav{
 }
 
 
+table{
+    border-collapse: collapse;
+    border: 3px solid #fff;
+}
 
 
 
